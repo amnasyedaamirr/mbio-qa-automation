@@ -18,7 +18,7 @@ UI automation framework for the public mb.io website, built with **Robot Framewo
 **Prerequisites:** Python 3.10+ and Google Chrome. Browser drivers are downloaded automatically by Selenium Manager, so no ChromeDriver setup is needed.
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/amnasyedaamirr/mbio-qa-automation.git
 cd <repo-folder>
 python -m pip install -r requirements.txt
 python run_tests.py
