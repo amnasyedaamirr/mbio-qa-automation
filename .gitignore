@@ -1,0 +1,14 @@
+   # Python / IDE
+   .venv/
+   venv/
+   __pycache__/
+   *.pyc
+   .idea/
+   .DS_Store
+
+   # Robot Framework run output (a curated sample is kept in docs/sample-report)
+   results/
+   output.xml
+   log.html
+   report.html
+   selenium-screenshot-*.png
