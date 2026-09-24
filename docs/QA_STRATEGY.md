@@ -139,7 +139,7 @@ Honestly, anything to do with money going to the wrong place:
 - **Not being able to take a bad release back.** A website can be rolled back in minutes. A mobile release has to go through store review, and old versions stay on people's phones. That's why I'd push hard for staged rollouts and a kill switch.
 - **Compliance gaps,** like users getting through identity checks they shouldn't, or missing risk warnings.
 - **Finding out from customers first.** If something breaks, I want us to see it in our monitoring before people start posting about it.
-
+I have had an experience with my current organisation where the trade was interrupted mid-way and the user (my browser during the nightly runs) was charged twice. Hence, the testcases related to trades are something i like keeping a close eye on.
 ---
 
 ## Release Readiness Checklist
