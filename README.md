@@ -27,7 +27,7 @@ This repo has both parts of the assessment:
 
 ## Running the tests
 
-You'll need Python 3.10 or newer and Google Chrome. You don't need to download ChromeDriver; Selenium sorts that out itself.
+You'll need Python 3.10 or newer and Google Chrome. You don't need to download ChromeDriver; Selenium sorts that out itself. Paste the commands below on Powershell or Terminal:
 
 ```bash
 git clone https://github.com/amnasyedaamirr/mbio-qa-automation.git
