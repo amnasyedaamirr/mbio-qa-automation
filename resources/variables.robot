@@ -101,7 +101,7 @@ ${HERO_HEADING}                     Crypto for everyone
 
 # Banner image file name = description used in reports
 &{HOMEPAGE_BANNERS}
-...    mobile-dashboard-small=Hero image
+...    mobile-dashboard=Hero image
 ...    khabib-img.webp=Marketing banner
 
 # Call-to-action button text = regex the destination URL must match
