@@ -1,6 +1,8 @@
-# Runs the full UI suite headless in Chrome and Firefox on every push and
-# pull request to main, and on demand from the Actions tab.
-# Robot Framework reports are uploaded as downloadable artifacts.
+# Runs the full UI suite headless in Chrome and Firefox:
+#   - on every push and pull request to main
+#   - every night at 02:00 UTC, so a fresh report is waiting in the morning
+#   - on demand from the Actions tab
+# The Robot Framework reports are uploaded as downloadable artifacts.
 name: UI tests
 
 on:
@@ -8,6 +10,8 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  schedule:
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
