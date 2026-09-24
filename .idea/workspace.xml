@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee6ecbcc-e1ed-4620-a1d1-e7f22b6a3c33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MBIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/keywords.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/link_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/locators.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/variables.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/homepage_tests.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/why_multibank_tests.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1790248962945</updated>
       <workItem from="1790248963869" duration="2000" />
-      <workItem from="1790250753552" duration="2459000" />
+      <workItem from="1790250753552" duration="4346000" />
     </task>
     <servers />
   </component>
